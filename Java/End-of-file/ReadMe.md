@@ -9,7 +9,8 @@ First, it's important to understand the concept of EOF (End-of-File). EOF signif
 
 To indicate EOF manually, you can use keyboard shortcuts:
 
-Intelij IDE Bash: ´CTRL + D´
+Intelij IDE Bash: 'CTRL + D'
+
 In this solution, I use StringBuilder to efficiently build and format the output as strings.
 
 ## Code
