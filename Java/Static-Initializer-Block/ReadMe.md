@@ -43,7 +43,7 @@ public class Solution {
         if (b <= 0 || h <= 0){
             throw new Exception("Breadth and height must be positive");
         }
-        return h;
+        return h*b;
     }
 }
 ```
