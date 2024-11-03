@@ -10,7 +10,9 @@ Given an input integer, you must determine which primitive data types are capabl
 To get you started, a portion of the solution is provided for you in the editor.
 
 ## Solution
-I used the math lib for the accounting pows
+I used the math lib for the accounting pows. You can read from reference link, witch data types is fitting in the witch value.
+Reference: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
 
 ### Code
 ```java
