@@ -29,8 +29,9 @@ public class Solution
 
             try{
                 Pattern.compile(pattern);
+                System.out.println("Valid");
             } catch (Exception e) {
-                throw new RuntimeException(e);
+                System.out.println("Invalid");
             }
 
             testCases--;
