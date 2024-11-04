@@ -26,6 +26,6 @@ Complete the code in your editor by writing an overridden getNumberOfTeamMembers
 ```java
     @Override
     void getNumberOfTeamMembers(){
-        System.out.println( "Each team has n players in " + getName() );
+        System.out.println( "Each team has 11 players in " + this.getName() );
     }
 ```
