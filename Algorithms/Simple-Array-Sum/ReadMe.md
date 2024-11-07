@@ -22,3 +22,10 @@ public static int simpleArraySum(List<Integer> ar) {
   return sum;
 }
 ```
+## alternative
+```java
+public static int simpleArraySum(List<Integer> ar) {
+  // Write your code here
+  return ar.stream().mapToInt(Integer::intValue).sum();
+}
+```
